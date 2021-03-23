@@ -1,0 +1,2 @@
+export ELINA_ROOT=/root/ERAN/ELINA
+export LD_LIBRARY_PATH=${ELINA_ROOT}/fconv:${ELINA_ROOT}/elina_zonotope:${ELINA_ROOT}/zonoml:${ELINA_ROOT}/partitions_api:${ELINA_ROOT}/elina_auxiliary:${ELINA_ROOT}/elina_linearize:${ELINA_ROOT}/fppoly:$LD_LIBRARY_PATH
